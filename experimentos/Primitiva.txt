@@ -1,0 +1,23 @@
+Nombre: Primitiva
+Duración: 30
+Población: ojjohiuhiuhiu
+Fecha de inicio: 09/09/2005
+Fecha de fin: 09/11/2005
+Número de bacterias iniciales: 89988
+Temperatura: 70.0°C
+Luminosidad: Alta
+Comida inicial: 6555 μg
+Día incremento comida: 3
+Comida día incremento: 1 μg
+Comida final: 161516 μg
+Patron de comida: PatronAlimentacionConstante
+Población: ojjohiuhiuhiu
+Fecha de inicio: 09/09/2005
+Fecha de fin: 09/11/2005
+Número de bacterias iniciales: 89988
+Temperatura: 70.0°C
+Luminosidad: Alta
+Comida inicial: 6555 μg
+Día incremento comida: 0
+Comida día incremento: 1 μg
+Comida final: 161516 μg

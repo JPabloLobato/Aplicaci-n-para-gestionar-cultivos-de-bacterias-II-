@@ -1,0 +1,12 @@
+Logica_de_Negocio\PatronDeComida.class
+Persistencia_de_Datos\GestorDatos.class
+Logica_de_Negocio\ExperimentoDialogo.class
+Logica_de_Negocio\PatronAlimentacionAlterno.class
+Logica_de_Negocio\PatronAlimentacionConstante.class
+Logica_de_Negocio\Poblacion.class
+Logica_de_Negocio\Experimento.class
+UI\InterfazGrafica.class
+Logica_de_Negocio\BacteriaPoblacion.class
+Logica_de_Negocio\PoblacionDialogo.class
+Logica_de_Negocio\ComidaDialogo.class
+Logica_de_Negocio\PatronAlimentacionIncremento.class
